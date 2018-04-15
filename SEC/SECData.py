@@ -130,4 +130,7 @@ ticker = ['AAL', 'AAPL', 'ADBE', 'ADI', 'ADP', 'ADSK', 'AKAM', 'ALXN', 'AMAT', '
 
 
 for i in ticker:
-    run(i)
+    try:
+        run(i)
+    except:
+        continue
