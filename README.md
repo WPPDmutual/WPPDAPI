@@ -10,7 +10,7 @@ Don't ever come here, or you'll be sorry
 This land was made just for me
 
 
-
+\n
 
 This land is my land, it isn't your land
 
@@ -20,7 +20,7 @@ If you don't get off, I'll blow your head off
 
 This land was made just for me
 
-
+\n
 
 
 So keep away now, Don't ruin my day now
@@ -32,7 +32,7 @@ Go find your own land, Just be a lone man
 This land was made just for me
 
 
-
+\n
 
 This land is my land, it isn't your land
 
